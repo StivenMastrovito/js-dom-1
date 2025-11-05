@@ -1,0 +1,10 @@
+body{
+    background-image: url(../img/spento.jpeg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+img{
+    transform: rotate(180deg);
+}
